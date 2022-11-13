@@ -2,7 +2,11 @@
 
 Very, very simple code for proof of concept "debit-card payment system" in wet markets.
 
-(I frequently ask the question: why am I taking this course?)
+(I frequently ask the question: why am I taking this course?
+
+Then I realised. I didn't want to take this course. Its a major requirement.
+
+It makes me rethink university education and the correct way to pursue for knowledge.)
 
 Contains:
 - code for controlling TFT using arduino
