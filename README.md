@@ -6,7 +6,7 @@ Very, very simple code for proof of concept "debit-card payment system" in wet m
 
 Then I realised. I didn't want to take this course. Its a major requirement.
 
-It makes me rethink university education and the correct way to pursue for knowledge.)
+It makes me rethink university education and the correct way to pursue knowledge.)
 
 Contains:
 - code for controlling TFT using arduino
