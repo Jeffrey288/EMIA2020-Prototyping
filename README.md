@@ -10,3 +10,5 @@ Contains:
 - uses nearest neighbour to enlarge letters
 - using progmem to store large amounts of data
 - use of Keypad library for controlling 4x4 matrix keypad
+
+View the "project" folder for the code.
