@@ -17,9 +17,17 @@
             "includePath": [
                 "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
                 "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\standard",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\SPI\\src",
+                "C:\\Users\\pinkp\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library",
+                "C:\\Users\\pinkp\\Documents\\Arduino\\libraries\\Adafruit_BusIO",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src",
+                "C:\\Users\\pinkp\\Documents\\Arduino\\libraries\\Waveshare_ILI9486\\src",
+                "C:\\Users\\pinkp\\Documents\\Arduino\\libraries\\ILI9486_SPI\\src",
                 "c:\\program files (x86)\\arduino\\hardware\\tools\\avr\\lib\\gcc\\avr\\7.3.0\\include",
                 "c:\\program files (x86)\\arduino\\hardware\\tools\\avr\\lib\\gcc\\avr\\7.3.0\\include-fixed",
-                "c:\\program files (x86)\\arduino\\hardware\\tools\\avr\\avr\\include"
+                "c:\\program files (x86)\\arduino\\hardware\\tools\\avr\\avr\\include",
+                "C:\\Users\\pinkp\\Documents\\Arduino\\libraries\\Adafruit_ST7735_and_ST7789_Library",
+                "C:\\Users\\pinkp\\Documents\\Arduino\\libraries\\Keypad\\src"
             ],
             "forcedInclude": [
                 "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino\\Arduino.h"

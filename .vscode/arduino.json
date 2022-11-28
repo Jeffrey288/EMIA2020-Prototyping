@@ -1,6 +1,5 @@
 {
     "board": "arduino:avr:uno",
-    "sketch": "project\\main.ino",
     "port": "COM3",
-    "output": "./ArduinoOutput"
+    "sketch": "bigtft_test\\main.ino"
 }
