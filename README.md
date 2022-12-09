@@ -1,5 +1,7 @@
 # EMIA2020-Prototyping
 
+*Update:* see `big_tft_test` for tft code
+
 Very, very simple code for proof of concept "debit-card payment system" in wet markets.
 
 (I frequently ask the question: why am I taking this course?
